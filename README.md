@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- TOP DEDSEC / ctOS BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050811&height=190&section=header&text=DEDSEC%20//%20ctOS%20OVERRIDE&fontSize=40&fontColor=FF003C&animation=fadeIn&fontAlignY=36&desc=OPERATIVE%20DOSSIER%20::%20IamjustaOversizedKidddoo%20::%20RED%20TEAM%20EXPLOIT%20ARCHITECT&descAlignY=64&descColor=00FFE0" width="100%" alt="DedSec ctOS Header" />
+<!-- TOP DEDSEC / ctOS GLITCH BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IamjustaOversizedKidddoo/IamjustaOversizedKidddoo/main/assets/dedsec-banner.png" width="100%" alt="DEDSEC // ctOS OVERRIDE" />
+</p>
 
 <!-- TYPING TERMINAL SIMULATION -->
 <a href="https://github.com/IamjustaOversizedKidddoo">
