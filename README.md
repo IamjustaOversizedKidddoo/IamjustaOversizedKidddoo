@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- TOP DEDSEC / ctOS GLITCH BANNER -->
+<!-- TOP REAPERS / ctOS GLITCH BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IamjustaOversizedKidddoo/IamjustaOversizedKidddoo/main/assets/dedsec-banner.png" width="100%" alt="DEDSEC // ctOS OVERRIDE" />
+  <img src="https://raw.githubusercontent.com/IamjustaOversizedKidddoo/IamjustaOversizedKidddoo/main/assets/reapers-banner.png" width="100%" alt="REAPERS // ctOS OVERRIDE" />
 </p>
 
 <!-- TYPING TERMINAL SIMULATION -->
 <a href="https://github.com/IamjustaOversizedKidddoo">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=21&pause=1000&color=FF003C&center=true&vCenter=true&width=800&lines=%5B!%5D+ctOS+2.0+SURVEILLANCE+BREACHED+BY+DEDSEC;OPERATIVE%3A+IamjustaOversizedKidddoo+%2F%2F+CODENAME%3A+BLADE;SPECIALIZATION%3A+OFFENSIVE+CYBER+%7C+AI+RED+TEAMING+%7C+PURPLE+TEAM;WE+ARE+DEDSEC.+WE+ARE+WATCHING.+EXPECT+US." alt="ctOS Typist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=21&pause=1000&color=FF003C&center=true&vCenter=true&width=800&lines=%5B!%5D+ctOS+2.0+SURVEILLANCE+BREACHED+BY+REAPERS;OPERATIVE%3A+IamjustaOversizedKidddoo+%2F%2F+CODENAME%3A+RAVEN;SPECIALIZATION%3A+OFFENSIVE+CYBER+%7C+AI+RED+TEAMING+%7C+PURPLE+TEAM;WE+ARE+REAPERS.+WE+ARE+WATCHING.+EXPECT+US." alt="ctOS Typist" />
 </a>
 
 <br><br>
@@ -15,7 +15,7 @@
 <!-- THREAT STATUS BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/ctOS_THREAT_LEVEL-LEVEL_0_%2F%2F_CRITICAL-FF003C?style=for-the-badge&logo=target&logoColor=white" alt="Threat Level" />
-  <img src="https://img.shields.io/badge/DEDSEC_STATUS-ACTIVE_OPERATIVE-00FFE0?style=for-the-badge&logo=hackthebox&logoColor=black" alt="DedSec Status" />
+  <img src="https://img.shields.io/badge/REAPERS_STATUS-ACTIVE_OPERATIVE-00FFE0?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Reapers Status" />
   <img src="https://img.shields.io/badge/CLEARANCE-KERNEL_ROOT_%2F%2F_RING_0-111927?style=for-the-badge&logo=linux&logoColor=00FFE0" alt="Clearance" />
   <img src="https://komarev.com/ghpvc/?username=IamjustaOversizedKidddoo&label=ctOS+TRACER+PINGS&color=FF003C&style=for-the-badge" alt="Tracer Pings" />
 </p>
@@ -29,15 +29,15 @@
 ```text
 ┌───[ ctOS 2.0 // CLASSIFIED ADVERSARY PROFILE // INTERPOL DATABASE ]──────────────┐
 │                                                                                  │
-│   ██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗                               │
-│   ██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝                               │
-│   ██║  ██║█████╗  ██║  ██║███████╗█████╗  ██║                                    │
-│   ██║  ██║██╔══╝  ██║  ██║╚════██║██╔══╝  ██║                                    │
-│   ██████╔╝███████╗██████╔╝███████║███████╗╚██████╗                               │
-│   ╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚══════╝ ╚═════╝                               │
+│   ██████╗  ███████╗  █████╗  ██████╗  ███████╗ ██████╗  ███████╗                 │
+│   ██╔══██╗ ██╔════╝ ██╔══██╗ ██╔══██╗ ██╔════╝ ██╔══██╗ ██╔════╝                 │
+│   ██████╔╝ █████╗   ███████║ ██████╔╝ █████╗   ██████╔╝ ███████╗                 │
+│   ██╔══██╗ ██╔══╝   ██╔══██║ ██╔═══╝  ██╔══╝   ██╔══██╗ ╚════██║                 │
+│   ██║  ██║ ███████╗ ██║  ██║ ██║      ███████╗ ██║  ██║ ███████║                 │
+│   ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝      ╚══════╝ ╚═╝  ╚═╝ ╚══════╝                 │
 │                                                                                  │
 │   OPERATIVE HANDLE : IamjustaOversizedKidddoo                                    │
-│   CODENAME         : BLADE // GHOST PROTOCOL                                     │
+│   CODENAME         : RAVEN // GHOST PROTOCOL                                     │
 │   CLASSIFICATION   : ADVERSARY EMULATION & OFFENSIVE AI RESEARCHER               │
 │   SURVEILLANCE     : EVADED // C2 BEACON ACTIVE // PROXIES ROTATING (TOR/ONION)  │
 │   TARGET SECTORS   : ACTIVE DIRECTORY, CLOUD HYBRID, AUTONOMOUS RED TEAM AGENTS  │
@@ -51,7 +51,7 @@
 
 ---
 
-### ```[0x01 // DEDSEC TACTICAL ARSENAL & WEAPONRY]```
+### ```[0x01 // REAPERS TACTICAL ARSENAL & WEAPONRY]```
 
 <p align="center">
   <b>OFFENSIVE & ADVERSARY EMULATION</b><br>
@@ -94,7 +94,7 @@
 ### ```[0x02 // CLASSIFIED OPERATIONS & REPOSITORY MATRIX]```
 
 ```text
-  [!] 11 ACTIVE CELL REPOSITORIES DETECTED ACROSS THE DEDSEC GRID
+  [!] 11 ACTIVE CELL REPOSITORIES DETECTED ACROSS THE REAPERS GRID
 ```
 
 #### ⚡ SECTOR 01 // AUTONOMOUS AI & C2 WARFARE
@@ -133,8 +133,8 @@
 
 <div align="center">
 
-<!-- STREAK STATS WITH DEDSEC RED/CYAN THEME -->
-<img src="https://streak-stats.demolab.com/?user=IamjustaOversizedKidddoo&background=050811&border=FF003C&stroke=00FFE0&ring=FF003C&fire=FF003C&currStreakLabel=00FFE0&sideLabels=E0E6ED&dates=E0E6ED" alt="DedSec Streak Stats" />
+<!-- STREAK STATS WITH REAPERS RED/CYAN THEME -->
+<img src="https://streak-stats.demolab.com/?user=IamjustaOversizedKidddoo&background=050811&border=FF003C&stroke=00FFE0&ring=FF003C&fire=FF003C&currStreakLabel=00FFE0&sideLabels=E0E6ED&dates=E0E6ED" alt="Reapers Streak Stats" />
 
 <br><br>
 
@@ -158,7 +158,7 @@
 
 ```text
   ┌─────────────────────────────────────────────────────────────────┐
-  │ [!] ESTABLISHING ENCRYPTED SIGNAL RELAY WITH DEDSEC NODE        │
+  │ [!] ESTABLISHING ENCRYPTED SIGNAL RELAY WITH REAPERS NODE       │
   │     AES-256-GCM TUNNEL OPEN // QUANTUM RESISTANT HANDSHAKE     │
   └─────────────────────────────────────────────────────────────────┘
 ```
@@ -170,7 +170,7 @@
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/SECURE_LINKEDIN-NETWORK_CONNECT-00FFE0?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
-  <a href="mailto:contact@dedsec.local">
+  <a href="mailto:contact@reapers.local">
     <img src="https://img.shields.io/badge/PGP_SIGNAL-ENCRYPTED_MAIL-111927?style=for-the-badge&logo=gmail&logoColor=FF003C" alt="Mail" />
   </a>
 </p>
@@ -181,12 +181,12 @@
 
 ```text
 ================================================================================
-   01010111 01000101 00100000 01000001 01010010 01000101 00100000 01000100 
-   01000101 01000100 01010011 01000101 01000011 00101110 00100000 
+   01010111 01000101 00100000 01000001 01010010 01000101 00100000 01010010 
+   01000101 01000001 01010000 01000101 01010010 01010011 00101110 
    "THE SYSTEM CAN BE RIGGED. BUT IT CAN ALSO BE BROKEN."
 ================================================================================
 ```
 
-<sub>ctOS 2.0 OVERRIDE PROTOCOL // DEDSEC NETWORK // TRANSMISSION CONCLUDED</sub>
+<sub>ctOS 2.0 OVERRIDE PROTOCOL // REAPERS NETWORK // TRANSMISSION CONCLUDED</sub>
 
 </div>
