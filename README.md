@@ -7,7 +7,7 @@
 
 <!-- TYPING TERMINAL SIMULATION -->
 <a href="https://github.com/IamjustaOversizedKidddoo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF003C&center=true&vCenter=true&width=800&lines=%5B!%5D+ctOS+2.0+SURVEILLANCE+BREACHED+BY+DEDSEC;OPERATIVE%3A+IamjustaOversizedKidddoo+%2F%2F+CODENAME%3A+BLADE;SPECIALIZATION%3A+OFFENSIVE+CYBER+%7C+AI+RED+TEAMING+%7C+PURPLE+TEAM;WE+ARE+DEDSEC.+WE+ARE+WATCHING.+EXPECT+US." alt="ctOS Typist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=21&pause=1000&color=FF003C&center=true&vCenter=true&width=800&lines=%5B!%5D+ctOS+2.0+SURVEILLANCE+BREACHED+BY+DEDSEC;OPERATIVE%3A+IamjustaOversizedKidddoo+%2F%2F+CODENAME%3A+BLADE;SPECIALIZATION%3A+OFFENSIVE+CYBER+%7C+AI+RED+TEAMING+%7C+PURPLE+TEAM;WE+ARE+DEDSEC.+WE+ARE+WATCHING.+EXPECT+US." alt="ctOS Typist" />
 </a>
 
 <br><br>
